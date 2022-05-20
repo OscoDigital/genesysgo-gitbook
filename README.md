@@ -6,7 +6,6 @@ This guide will be updated over time and the community should feel empowered to 
 
 [https://github.com/GenesysGo/GitBook](https://github.com/GenesysGo/GitBook) - Please feel free to drop edits here!
 
-{% hint style="success" %}
 **This is a living document and will be updated/edited over time.**
 
 ****
