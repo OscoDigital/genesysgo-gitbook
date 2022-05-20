@@ -26,7 +26,8 @@
 
 * [The Shadow Drive Platform](using-shadow-drive/the-shadow-drive-platform/README.md)
   * [Shadow Drive CLI](using-shadow-drive/the-shadow-drive-platform/shadow-drive-cli.md)
-  * [Shadow Drive SDK](using-shadow-drive/the-shadow-drive-platform/shadow-drive-sdk.md)
+  * [Shadow Drive SDK](using-shadow-drive/the-shadow-drive-platform/shadow-drive-sdk/README.md)
+    * [Community Shadow Drive Platforms](using-shadow-drive/the-shadow-drive-platform/shadow-drive-sdk/community-shadow-drive-platforms.md)
   * [Shadow Drive API](using-shadow-drive/the-shadow-drive-platform/shadow-drive-api.md)
   * [Shadow Drive Performance](using-shadow-drive/the-shadow-drive-platform/shadow-drive-performance.md)
   * [Submitting Bugs](using-shadow-drive/the-shadow-drive-platform/submitting-bugs.md)
