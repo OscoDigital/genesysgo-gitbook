@@ -21,3 +21,9 @@ Follow Knox on Twitter at [https://twitter.com/knox\_trades](https://twitter.com
 {% embed url="https://drive.alphabatem.com/login" %}
 
 You can follow the Alpha\_Batem Twitter at [https://twitter.com/alpha\_batem](https://twitter.com/alpha\_batem)
+
+## Nelis.os - The Storing Company
+
+{% embed url="https://storing.company" %}
+
+You can follow the Nelis.sol Twitter at [https://twitter.com/nelis\_sol](https://twitter.com/nelis\_sol)
